@@ -60,7 +60,7 @@ The goal of this project was to turn raw web data into actionable insights for n
 ---
 ## 🙏 Acknowledgements
 - Grateful to the open-source community and platforms like Tableau and Wikipedia for providing tools and data to bring this project to life.
-- Grateful to Microsoft Excel for providing tools and data to bring this project to life.
+- Grateful to Microsoft Excel for providing tools to bring this project to life.
 ---
 ## 📜 License
 This project is open for public learning and educational portfolio purposes.
