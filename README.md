@@ -1,9 +1,11 @@
 # 🌍 Africa's Economic Giants: A Regional Revenue Analysis
-
 This project is a full-stack data analysis exploring the top 100 companies in Africa by revenue. Using Python for web scraping, Excel for data transformation, and Tableau for visualization, I uncovered key insights on how revenue is distributed across industries, countries, and African regions.
+
 ---
+
 ## 📊 Project Overview
 The goal of this project was to turn raw web data into actionable insights for non-technical stakeholders such as investors, policymakers, and economic researchers. The dashboard provides a regional and industrial breakdown of Africa's top-performing companies and highlights areas of growth and opportunity.
+
 ---
 ## 🛠 Tools & Technologies Used
 - **Python (BeautifulSoup & pandas)** – Web scraping and initial data handling
@@ -62,7 +64,9 @@ The goal of this project was to turn raw web data into actionable insights for n
 ---
 ## 📜 License
 This project is open for public learning and educational portfolio purposes.
+
 ---
 ## 📬 Contact  
 For questions, feedback, or collaborations, please reach out: **olarewajutolulope26@gmail.com**
+
 ---
